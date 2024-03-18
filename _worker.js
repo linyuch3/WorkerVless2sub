@@ -12,7 +12,7 @@ let addresses = [
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://addressesapi.linyuch1.workers.dev/','https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt','https://addressesapi.090227.xyz/CloudFlareYes' //可参考内容格式 自行搭建。
+	'https://addressesapi.lks1220.workers.dev/','https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt','https://addressesapi.090227.xyz/CloudFlareYes' //可参考内容格式 自行搭建。
 ];
 
 let DLS = 4;//速度下限
