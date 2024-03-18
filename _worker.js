@@ -6,7 +6,8 @@ let mytoken= 'auto';//快速订阅访问入口, 留空则不启动快速订阅
 // 设置优选地址，不带端口号默认443，不支持非TLS订阅生成
 let addresses = [
 	'icook.tw:2053#优选域名',
-	'cloudflare.cfgo.cc#优选官方线路',
+	'edgetunnel-free.pages.dev:443#优选官方线路',
+	'vless.cfno1.eu.org:443#优选官方线路'
 ];
 
 // 设置优选地址api接口
