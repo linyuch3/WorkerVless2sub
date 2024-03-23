@@ -7,7 +7,7 @@ let mytoken= 'auto';//快速订阅访问入口, 留空则不启动快速订阅
 let addresses = [
 	'icook.tw:2053#流量消耗网站missav.com',
 	'edgetunnel-free.pages.dev:443#流量消耗网站cn.pornhub.com',
-	'vless.cfno1.eu.org:443#优选官方线路'
+	'vless.cfno1.eu.org:443#优选官方线路',
 	'cdn.twittei.link:443#公益订阅'
 ];
 
