@@ -5,8 +5,8 @@ let mytoken= 'auto';//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，不支持非TLS订阅生成
 let addresses = [
-	'icook.tw:2053#流量消耗网站missav.com',
-	'edgetunnel-free.pages.dev:443#流量消耗网站cn.pornhub.com',
+	'icook.tw:2053#https://t.me/hailizix',
+	'edgetunnel-free.pages.dev:443#https://t.me/hailizix',
 	'vless.cfno1.eu.org:443#优选官方线路',
 	'cdn.twittei.link:443#公益订阅'
 ];
