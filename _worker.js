@@ -13,7 +13,7 @@ let addresses = [
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://raw.githubusercontent.com/linyuch3/workerssub/main/aliyun.txt,https://raw.githubusercontent.com/linyuch3/workerssub/main/addressesapi.txt','https://addressesapi.090227.xyz/CloudFlareYes','https://addressesapi.090227.xyz/ct','https://addressesapi.090227.xyz/cmcc' //可参考内容格式 自行搭建。
+	'https://raw.githubusercontent.com/linyuch3/workerssub/main/addressesapi.txt','https://addressesapi.090227.xyz/CloudFlareYes','https://addressesapi.090227.xyz/ct','https://addressesapi.090227.xyz/cmcc' //可参考内容格式 自行搭建。
 ];
 
 let DLS = 4;//速度下限
